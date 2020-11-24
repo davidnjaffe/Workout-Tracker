@@ -5,6 +5,7 @@
 ## Description 
 
 Create a workout/fitness tracker using Mongo database and mongoose schema. The app is deployed on Heroku using the Atlas db.
+Try the app: https://mongodb-fitness-tracker.herokuapp.com/
                 
 ![GitHub License](https://img.shields.io/badge/license-MIT-green.svg)
 
