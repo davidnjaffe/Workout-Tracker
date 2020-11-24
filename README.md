@@ -1,6 +1,6 @@
 # Nosql Workout Tracker
 
-![Fitness Tracker](./assets/fitness-tracker-dashboard.png width="50")
+![Fitness Tracker](./assets/fitness-tracker-dashboard.png)
 
 ## Description 
 
