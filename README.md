@@ -9,36 +9,22 @@ Create a workout/fitness tracker using Mongo database and mongoose schema. The a
 ## Table of Contents
                                            
 * [Installation](#installation)
-* [Usage](#usage)
-* [Testing](#tests)
-* [Contributing](#contributing)
+* [User Story](#userstory)
 * [License](#license)
-* [Notes](#notes)
+
 * [Questions](#questions)
                     
 ## Installation
                       
 npm start if running locally
                      
-## Usage 
-                      
-n/a
+## User Story
 
-## Tests
-                      
-undefined
-
-## Contributing
-                      
-undefined
+* As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
                     
 ## License
                       
 Project license: MIT
-
-## Notes
-
-
                                                         
 ## Questions
 Let me know if you have any questions! Check out my [GitHub Profile](https://github.com/davidnjaffe)                 
