@@ -28,8 +28,7 @@ const db = require("./models")
 app.use(require("./routes/routes-html.js"));
 app.use(require("./routes/routes-api.js"));
 
-// require("./routes/routes-html.js")(app, path)
-// require("./routes/routes-api.js")(app)
+
 
 
 
